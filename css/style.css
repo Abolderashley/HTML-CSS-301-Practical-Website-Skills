@@ -19,7 +19,7 @@ a:active {
 
 }
 h1 {
-
+	font-family: 'Lobster' , cursive;
 }
 h2 {
 	font-size: 40px;
@@ -30,6 +30,7 @@ h3 {
 	font-size: 24px;
 	line-height: 28px;
 	margin-bottom: 15px;
+	color: #17f617;
 }
 
 h4 {
@@ -131,6 +132,7 @@ header {
 	font-size: 40px;
 	color: purple;
 	margin-bottom: 10px;
+	font-family: 'Lobster' , cursive;
 }
 
 .feature h3 {
@@ -182,10 +184,18 @@ aside ul {
 	margin-right: 30px;
 	float: left;
 	margin-bottom: 50px;
+	background-color: #cc90cc;
 }
 
 .box:last-child {
 	margin-right: 0;
+}
+
+.services h3{
+	text-align: center;
+	font-family: 'Ravi Prakash' , cursive;
+	font-size: 36px;
+	line-height: 36px;
 }
 
 /* Footer */
